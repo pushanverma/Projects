@@ -1,0 +1,18 @@
+1. We have to stop the counter at 0                                             [pending]
+2. If we touch the button , it should change the background color also          []
+3. onbutton click , one sound should also be played (+ and -)                   []
+4. background music should also be played                                       []
+5. Buttons should be centered(left and right)                                   []
+6. Button onHover should change the size                                        []
+7. Should be responsive according to the mobile also                            []
+
+
+
+//One more counter App -> which shows the functionality of local storage also 
+(To store the count when anybody comes)
+
+hello
+hello2
+hello3
+
+
